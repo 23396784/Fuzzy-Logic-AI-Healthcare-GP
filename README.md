@@ -3,21 +3,26 @@ Medical decision support system using fuzzy logic for handling uncertainty in he
 
 🏥 Fuzzy Logic AI for Healthcare Decision Support
 
-📋 Overview
-Implementation of a fuzzy logic system for clinical decision support, demonstrating how AI can handle medical uncertainty through interpretable, rule-based reasoning. This project was developed as part of Modular course Engineering AI Solutions to showcase practical applications of fuzzy logic in healthcare scenarios.
+Linear Programming Optimization
+Python-based linear programming optimization demonstrating constraint handling, brute-force search, and visual validation of global optima using NumPy and Matplotlib.
 
-🎯 Key Features
-Medical Decision Support: Fuzzy logic system for infection risk assessment
-Explainable AI: Transparent, rule-based decision-making process
-Healthcare Applications: Customizable for OCT imaging, GP consultations, and systematic reviews
-Clinical Validation: Rule set based on established medical guidelines
-Interactive Assessment: Command-line interface for patient evaluation
+Fuzzy Logic
 
-🛠️ Technology Stack
-Language: Python 3.8+
-Libraries: scikit-fuzzy, NumPy, Matplotlib
-Methodology: Mamdani fuzzy inference system
-Applications: Healthcare AI, Medical Diagnostics, Clinical Decision Support
+Conceptual and applied introduction to fuzzy logic, covering fuzzy sets, membership functions, linguistic variables, and real-world applications in healthcare and AI decision-making.
 
-📊 System Architecture
+This project demonstrates a complete linear programming optimization workflow implemented in Python. Using NumPy and Matplotlib, the model evaluates all feasible solutions under multiple constraints to guarantee a global optimum.
+This project explores fuzzy logic as an extension of Boolean logic, enabling AI systems to handle uncertainty, partial truth, and human-like reasoning. It covers foundational concepts such as fuzzy sets, membership functions, linguistic variables, and fuzzy rule-based systems.
 
+Real-world applications are discussed across:
+
+Healthcare decision support systems
+
+Medical diagnosis and imaging
+
+Traffic control and climate systems
+
+AI-assisted literature review systems
+
+The project emphasizes interpretability, ethical AI, and decision transparency, particularly in healthcare contexts.
+
+Key Concepts: Fuzzy Sets, Membership Functions, Linguistic Variables, Interpretable AI
