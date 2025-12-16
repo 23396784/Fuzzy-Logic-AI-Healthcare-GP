@@ -26,3 +26,18 @@ AI-assisted literature review systems
 The project emphasizes interpretability, ethical AI, and decision transparency, particularly in healthcare contexts.
 
 Key Concepts: Fuzzy Sets, Membership Functions, Linguistic Variables, Interpretable AI
+
+Fuzzy Logic Analysis Project
+
+This section presents a fuzzy logic–based analytical model implemented in Python.
+The project demonstrates the application of fuzzy membership functions, inference rules,
+and defuzzification to support decision-making under uncertainty.
+
+Contents
+Jupyter Notebook (Fuzzy Logic implementation)
+HTML-rendered results
+Visual outputs (PNG/JPG)
+Analytical interpretation and findings
+
+This work highlights practical applications of fuzzy logic in data-driven problem solving.
+
